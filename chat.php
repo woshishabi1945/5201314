@@ -153,7 +153,6 @@
         // 创建数据库连接
         $servername = 'localhost';
         $username = 'woshishabi1945';
-        $password = 'woshishabi1945';
         $dbname = '5201314';
 
         $conn = new mysqli($servername, $username, $password, $dbname);
