@@ -1,9 +1,9 @@
 <?php
 // 创建数据库连接
 $servername = 'localhost';
-$username = 'hproom';
-$password = 'hproom';
-$dbname = 'hproom';
+$username = 'woshishabi1945';
+$password = 'woshishabi1945';
+$dbname = '1314520';
 
 // 获取表单字段的值
 $name = $_POST['name'];
